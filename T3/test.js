@@ -6,7 +6,7 @@ import { mancalaOperator as op1 } from "./t3-2-c/decorator.js";
 // [Write your own "import" for other PLs.]
 
 // Choose proper "import" depending on your PL.
-import { mancalaOperator as op2 } from "./wsj/7ed50fc8b02b87b7ca898e1f5878b2bb_3e7d41caa32656fbaf00d773467316cf_8.js";
+import { mancalaOperator as op2 } from "./t3-2-c/decorator.js";
 // import { mancala_operator as op2 } from "./t3_2_rust_rival/pkg/t3_2_rust.js"
 // [Write your own "import" for other PLs.]
 
